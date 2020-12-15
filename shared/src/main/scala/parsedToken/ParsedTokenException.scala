@@ -3,7 +3,7 @@ package edu.furman.edu
 
 
 
-package citeTokenizedEditions {
+package citeAnalyzedTokens {
 
   import scala.scalajs.js
   import scala.scalajs.js.annotation._

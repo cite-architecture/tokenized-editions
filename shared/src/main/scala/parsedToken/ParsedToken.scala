@@ -1,4 +1,4 @@
-package edu.furman.classics.citeTokenizedEditions
+package edu.furman.classics.citeAnalyzedTokens
 
 import edu.holycross.shot.cite._
 
